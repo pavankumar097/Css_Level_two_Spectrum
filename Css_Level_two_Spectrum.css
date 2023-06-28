@@ -1,0 +1,31 @@
+h1{
+    font-family: 'Ysabeau SC', sans-serif;
+    text-align: center;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    height: 200px;
+    padding: 100px;
+    border: 6px solid white;
+}
+#Row1{
+    background-color: #E63946;
+  
+}
+#Row2{
+    background-color: #F1FAEE;
+}
+#Row3{
+    background-color: #A8DADC;
+}   
+#Row4{
+    background-color: #457B9D;
+
+}
+#Row5{
+    background-color: #1D3557;
+
+}
